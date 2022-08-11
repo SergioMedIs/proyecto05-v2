@@ -5,7 +5,7 @@ import Toolbar from '@mui/material/Toolbar';
 import Button from '@mui/material/Button';
 import IconButton from '@mui/material/IconButton';
 import MenuIcon from '@mui/icons-material/Menu';
-import { Badge, makeStyles } from '@mui/material';
+import { Badge} from '@mui/material';
 import  {ShoppingCart } from "@material-ui/icons";
 import {Typography} from '@mui/material';
   

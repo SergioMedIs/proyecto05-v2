@@ -1,14 +1,14 @@
 import { useState } from "react";
-import  {actionTypes } from "./reducer";
+import { actionTypes } from 'redux';
 import accounting from "accounting";
 import { Provider } from 'react-redux';
 import { Card } from '@mui/material';
 import { CardMedia } from '@mui/material';
-import { CardActions } from '@mui/material';
+/* import { CardActions } from '@mui/material'; */
 import { CardActionArea } from '@mui/material';
 import { CardContent } from '@mui/material';
 import {Typography} from '@mui/material';
-import { provider } from 'react-redux'; 
+/* import { provider } from 'react-redux';  */
 
 
 
